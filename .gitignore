@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+.env
+
+/nbproject/private/private.xml
+
+/public/img/pains
+
+/nbproject/private/

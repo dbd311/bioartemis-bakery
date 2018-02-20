@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.bioartemis.fr/</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/auth/login</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/auth/register</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/painbio</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/nos-pains</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/acheter</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/photos-et-videos</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/points-de-vente</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/contact</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/mentions-legales</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/password/email</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/nos-pains/?page=2</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/nos-pains/?page=3</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/nos-pains/?page=4</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/nos-pains/?page=5</loc>
+</url>
+<url>
+  <loc>http://www.bioartemis.fr/nos-pains/?page=1</loc>
+</url>
+</urlset>
